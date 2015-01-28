@@ -1,0 +1,23 @@
+{
+  "app_name": "c4m-redirect-app",
+  "services": [
+    {
+      "service_name": "redirect-serv",
+      "components": [
+        {
+          "component_name": "redirect-component",
+          "image": "ubergesundheit/c4m-redirect",
+          "env": [
+            "URL=https://raw.githubusercontent.com/codeformuenster/gum/dockerized-redirect/redirects"
+          ],
+          "ports": [
+            "8002/tcp"
+          ],
+          "domains": {
+            "c4ms-redir.gigantic.io": "8002"
+          }
+        }
+      ]
+    }
+  ]
+}
