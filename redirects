@@ -5,3 +5,5 @@ rat=http://rat.codeformuenster.org/
 forum=http://forum.codeformuenster.org/
 daten=http://codeformuenster.org/open-data/
 parkplaetze=http://kibana-webwurst.gigantic.io/#/dashboard/Freie-Parkpl%C3%A4tze?_g=(time:(from:now-4h,mode:quick,to:now))&_a=(filters:!(),panels:!((col:1,row:1,size_x:12,size_y:6,visId:Parkpl%C3%A4tze)),query:(query_string:(query:'*')),title:'Freie%20Parkpl%C3%A4tze')
+/=http://codeformuenster.org/
+/test=//codeformuenster.org/
