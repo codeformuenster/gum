@@ -10,3 +10,5 @@ matrix=http://codeformuenster.org/wahlprogramm-matrix/
 wahlkarte=http://codeformuenster.org/wahlkarte/
 parkleit-api=http://parkleit-api.codeformuenster.org/
 parkhaeuser=http://codeformuenster.org/parkhaeuser-mobile/
+wasser=http://codeformuenster.org/trinkwasser/
+trinkwasser=http://codeformuenster.org/trinkwasser/
